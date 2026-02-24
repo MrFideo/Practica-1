@@ -14,6 +14,6 @@
 12. git add .
 13. git commit -m "Segundo comentario"
 14. git push -u origin gh-pages
-# Titulo
-## Subtitulo
-- Parrafo
+# "#" para Titulo
+## "##" para Subtitulo
+- "-" para Parrafo
